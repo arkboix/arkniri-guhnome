@@ -1,0 +1,25 @@
+#+TITLE: Arkniri-Guhnome
+
+
+Guhnome is the current maintained branch of arkniri (my niri configuration)
+
+* Features
+
+- Modified Default Niri Config
+- Gnome Like Panel
+- Wallpaper Picker
+- Spotlight search-like rofi menu
+
+* Installation
+
+
+copy em over ;)
+
+* Issues
+
+Put em in GitHub Issues.
+
+
+* Pics
+
+[[file:assets/1.png]]
